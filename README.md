@@ -12,4 +12,5 @@ This repo will contain all of my documentation for Project 01 for ATLS 4630: Fro
 ## Milestone 01 - Proposal
 [Proposal Document](./Milestone-01-Proposal/Milestone-01-Proposal.pdf)
 
-
+## Milestone 02 - Mid-Project Check-In
+[Mid-Project Check In](./Milestone-02/Milestone-02-Check-In)
